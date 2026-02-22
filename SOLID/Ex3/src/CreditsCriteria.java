@@ -6,5 +6,4 @@ public class CreditsCriteria implements EligibilityCriteria {
         }
         return null;
     }
-
 }
